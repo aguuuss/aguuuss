@@ -84,7 +84,7 @@
 <br>
 
 <li>
-<a href="mailto:[agustinirala240@gmail.com]?subject=Te vi en Github!!&body=Buenas Agustin, te mando este email porque queria contactarme con vos"></a>
+<a href="mailto:agustinirala240@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
