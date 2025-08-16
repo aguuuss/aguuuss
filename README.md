@@ -1,6 +1,6 @@
 <!-- Optional: reemplaza esta imagen por tu banner -->
 <!-- <img src="https://your-cdn.com/banner.png" alt="Banner" width="100%" /> -->
-<img width="3360" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/8a237779-66bd-41bc-b864-42c80e7667e9" />
+<img width="3360" height="920" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/41cde352-ac1b-4aa9-aa28-459c5f8c54db" />
 
 <div align="center">
 
@@ -16,6 +16,9 @@ Estudiante avanzado de Ingeniería en Sistemas (UTN FRRE, 4.º año) · Full‑S
 </a>
 <a href="mailto:agustinirala240@gmail.com">
   <img src="https://img.shields.io/badge/Email-Escribime-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+</a>
+<a href="https://www.runa-code.com/es">
+  <img src="https://img.shields.io/badge/Email-Conoce RunaCode-135FBB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
 </a>
 
 </div>
