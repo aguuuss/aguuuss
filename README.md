@@ -18,7 +18,7 @@ Estudiante avanzado de Ingeniería en Sistemas (UTN FRRE, 4.º año) · Full‑S
   <img src="https://img.shields.io/badge/Email-Escribime-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
 </a>
 <a href="https://www.runa-code.com/es">
-  <img src="https://img.shields.io/badge/Email-Conoce RunaCode-135FBB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  <img src="https://img.shields.io/badge/Conoce RunaCode-135FBB?style=for-the-badge" alt="RUNA Badge" />
 </a>
 
 </div>
